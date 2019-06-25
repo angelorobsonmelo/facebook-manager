@@ -56,6 +56,7 @@ Include the component in your layout
 
     private lateinit var callbackManager: CallbackManager 
 
+   // Call this function in onViewCreated
     private fun setupFacebookLogin() {
         callbackManager = CallbackManager.Factory.create()
         buttonFacebookLogin = authFacebookButton // facebook button id reference
