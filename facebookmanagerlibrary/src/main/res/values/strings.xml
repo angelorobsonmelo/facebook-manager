@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FacebookManagerLibrary</string>
+
+    <!--Status code error-->
+    <string name="internal_error">An internal error occurred.</string>
+    <string name="no_internet_connection_error">No internet connection</string>
+    <string name="socket_timout_error">Request timed out, please try again.</string>
+    <string name="unauthorized">Incorrect e-mail or password.</string>
+    <string name="unknown_error">Unknown error, contact your system administrator</string>
+
+</resources>
